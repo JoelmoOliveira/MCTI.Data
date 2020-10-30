@@ -1,0 +1,20 @@
+Package: MCTI.Data
+Title: Dados Indicadores CT&I_Brasil
+Version: 0.0.1
+Authors@R: 
+    person(given = "Joelmo",
+           family = "Oliveira",
+           role = c("aut", "cre"),
+           email = "joelmo.oliveira@mctic.gov.br",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compilação de séries históricas dos indicadores de CT&I do MCTI.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr
+Suggests: 
+    ggplot2
