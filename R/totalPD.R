@@ -12,7 +12,7 @@
 #'@return Um numero ou vetor com valor do dispendio federal em P&D
 #'
 
-total.pd<-function(ano){
+totalpd<-function(ano){
 
   if (missing(ano)==TRUE){
     total<-tabddd$totalpd
