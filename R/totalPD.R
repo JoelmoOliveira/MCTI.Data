@@ -9,7 +9,9 @@
 #'
 #'@param ano um numero inteiro
 #'
-#'@return Um numero ou vetor com valor do dispendio federal em P&D
+#'@return Um numero ou vetor com valor do dispendio federal em P&
+#'
+#'@export
 #'
 
 totalpd<-function(ano){
