@@ -5,5 +5,5 @@
 #'@docType data
 #'
 #'@usage data(tabddd)
-#'@usage data(internacional)
+#'
 #'
