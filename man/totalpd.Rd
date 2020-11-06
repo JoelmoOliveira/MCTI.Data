@@ -11,7 +11,7 @@ totalpd(ano)
 \item{ano}{um numero inteiro}
 }
 \value{
-Um numero ou vetor com valor do dispendio federal em P&
+Um numero ou vetor com valor do dispendio federal em P&D
 }
 \description{
 Se o ano nao for especificado, a funcao
